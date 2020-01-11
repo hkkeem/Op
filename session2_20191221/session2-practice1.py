@@ -12,3 +12,4 @@ for i in numbers:
 
 print("최대값은" + str(max_number) + "입니다.")
 print("최대값은" + str(min_number) + "입니다.")
+

@@ -6,5 +6,3 @@ if menuName in menu:
     print(menuName + "의 가격은" + str(cost) + "원 입니다.")
 else:
     print(menuName + "란 메뉴는 없습니다.")
-
-    
