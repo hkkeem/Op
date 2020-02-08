@@ -23,7 +23,6 @@ class ElectricCar(Car):
         self.reverse -= 5
         print(self.company, self.model, self.color, "차량이 후진합니다. 남은 충전잔량:", self.battery)
 
-
 hyundai = Car("현대", "아반떼", "흰색")
 hyundai.forward()
 hyundai.reverse()
